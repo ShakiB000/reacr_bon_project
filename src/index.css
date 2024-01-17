@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+::selection{
+  color: rgba(252, 202, 36, 0.942);
+}
